@@ -10,7 +10,7 @@ On the other hand, we can write program in Python if we use mesa library. This i
 [Project Page](https://github.com/projectmesa)  
 [Mesa repository](https://github.com/projectmesa/mesa)  
 [Tutorial](http://mesa.readthedocs.io/en/latest/tutorials/intro_tutorial.html)  
-[Presentation at PyData DC 2016 by The Author Jackie Kazil](https://www.youtube.com/watch?v=bjjoHji8KUQ)  
+[Presentation at PyData DC 2016 by One of The Author Jackie Kazil](https://www.youtube.com/watch?v=bjjoHji8KUQ)  
 
 ### The books below might be useful to learn MAS.  
 
