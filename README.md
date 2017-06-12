@@ -1,4 +1,4 @@
-# Play-with-Mesa-Library
+# Play with Mesa Library
 
 ## Mesa Library - Introductory Tutorial Study Note  
 
