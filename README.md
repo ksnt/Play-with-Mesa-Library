@@ -12,8 +12,10 @@ On the other hand, we can write program in Python if we use mesa library. This i
 [Tutorial](http://mesa.readthedocs.io/en/latest/tutorials/intro_tutorial.html)  
 [Presentation at PyData DC 2016 by One of The Author Jackie Kazil](https://www.youtube.com/watch?v=bjjoHji8KUQ)  
 
-### The books below might be useful to learn MAS and ABM.  
+### The books below would be useful to learn MAS and ABM.  
 
+Epstein, J. M., & Axtell, R. (1996). Growing artificial societies: social science from the bottom up. Brookings Institution Press.  
 Axelrod, R. M. (1997). The complexity of cooperation: Agent-based models of competition and collaboration. Princeton University Press.  
 Cederman, L. E. (1997). Emergent actors in world politics: how states and nations develop and dissolve. Princeton University Press.  
 Squazzoni, F. (2012). Agent-based computational sociology. John Wiley & Sons.  
+Jones, O., Maillardet, R., & Robinson, A. (2014). Introduction to scientific programming and simulation using R. CRC Press.  
