@@ -3,7 +3,7 @@
 ## Mesa Library - Introductory Tutorial Study Note  
 
 I am just trying to use mesa library with tutorial.  
-I have ever used NetLogo, Swarm, RePast, but I thought those were traoublesome for me because I do not like Java and Objective-C.  
+I have ever used NetLogo, Swarm, and RePast; however, I thought those were troublesome for me because I do not like Java and Objective-C.  
 On the other hand, we can write program in Python if we use mesa library. This is amazing!  
 
 ## Notebook
